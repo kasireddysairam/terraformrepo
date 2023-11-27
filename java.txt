@@ -4,5 +4,6 @@ class Test
     {
 
         System.out.println("dev2 commited one change");
+         System.out.println("git fetch");
     }
 };
